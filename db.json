@@ -1,0 +1,20 @@
+{
+    "users": {
+        "siyasinghaniya05@gmail.com": {
+            "id": "siyasinghaniya05@gmail.com",
+            "name": "siya singhaniya",
+            "age": 18,
+            "gender": "Female",
+            "history": "thyroid"
+        },
+        "doctor@gmail.com": {
+            "id": "doctor@gmail.com",
+            "name": "New User",
+            "age": 0,
+            "gender": "Other",
+            "history": ""
+        }
+    },
+    "history": {},
+    "reports": {}
+}
